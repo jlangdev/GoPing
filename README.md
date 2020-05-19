@@ -17,7 +17,7 @@ sudo ./goping [address] [Preferred TTL] [protocol (ip4 or ip6)]
 Windows: Not tested
 ```
 goping [address] [Preferred TTL] [protocol (ip4 or ip6)]
-
+```
 ## Examples
 
 ```
